@@ -1,5 +1,9 @@
 package main
 
+/*
+VALDY RAMADHAN
+GLNG-KS08-09
+*/
 import (
 	"encoding/json"
 	"fmt"
